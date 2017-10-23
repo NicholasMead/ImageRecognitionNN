@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRecognitionNN", "ImageRecognitionNN\ImageRecognitionNN.csproj", "{B89E477E-BA09-4F5F-86C5-BDBBBCCD8E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{7FA605C0-CF0E-4054-936F-85B795CD1194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworksTests", "NeuralNetworksTests\NeuralNetworksTests.csproj", "{9576085F-F7EC-4602-B4D9-F0A0FC4FA002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeImageLablePair_IDX", "DecodeImageLablePair_IDX\DecodeImageLablePair_IDX.csproj", "{83824EFD-6F11-4EE4-BBE0-B6B94E82D9D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89E477E-BA09-4F5F-86C5-BDBBBCCD8E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89E477E-BA09-4F5F-86C5-BDBBBCCD8E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89E477E-BA09-4F5F-86C5-BDBBBCCD8E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89E477E-BA09-4F5F-86C5-BDBBBCCD8E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA605C0-CF0E-4054-936F-85B795CD1194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA605C0-CF0E-4054-936F-85B795CD1194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA605C0-CF0E-4054-936F-85B795CD1194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA605C0-CF0E-4054-936F-85B795CD1194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9576085F-F7EC-4602-B4D9-F0A0FC4FA002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9576085F-F7EC-4602-B4D9-F0A0FC4FA002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9576085F-F7EC-4602-B4D9-F0A0FC4FA002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9576085F-F7EC-4602-B4D9-F0A0FC4FA002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83824EFD-6F11-4EE4-BBE0-B6B94E82D9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83824EFD-6F11-4EE4-BBE0-B6B94E82D9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83824EFD-6F11-4EE4-BBE0-B6B94E82D9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83824EFD-6F11-4EE4-BBE0-B6B94E82D9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
